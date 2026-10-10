@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="artillery-2d.vcxproj" Id="e90fd8b7-ace5-4fb9-bd5e-1f344fd478c3" />
+</Solution>
